@@ -1,0 +1,5 @@
+It is important for users of artificial HES data to note the following caveats and disclaimers:
+
+- While the artificial HES data replicates the structure and some statistical properties of HES, it is unsuitable for testing HES developments and cannot be used for HES assurance purposes. 
+
+- Furthermore, due to the random process by which the artificial HES data is generated, users should be aware that there are differences in the aggregate statistics between artificial HES and real HES.
