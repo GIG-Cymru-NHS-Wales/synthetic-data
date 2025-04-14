@@ -1,14 +1,13 @@
-# Artificial information
+# Synthetic data
 
-Artificial information sets provide software engineers and business analysts
-with information that share some of the characteristics of real information
-while not using any real information such as of real people, real processes,
-real devices, etc.
+Synthetic data, also known as artificial information, provide software engineers
+and business analysts with information that share some of the characteristics of
+real information while not using any real information, such as of real people,
+or real processes, or real devices, etc.
 
-This artificial information does not contain any actual doctor records, any
-actual patient records, any actual device records, or any other actual records.
- We are piloting this new
-service with a limited number of artificial data sets.
+Synthetic does not contain any actual doctor records, any actual patient
+records, any actual device records, or any other actual records. We are piloting
+this new service with a limited number of artificial data sets.
 
 ## United Kingdom (UK) National Health Service (NHS) Digital
 
